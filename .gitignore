@@ -1,0 +1,11 @@
+# dependencies
+/node_modules
+
+# IDEs and editors
+*.launch
+
+# 编译后的文件是否需要上传依项目而定，一般不需要上传，由服务器通过脚本自己打包编译
+/dist
+
+# 忽略版本锁定文件
+/package-lock.json

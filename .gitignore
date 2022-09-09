@@ -9,3 +9,8 @@
 
 # 忽略版本锁定文件
 /package-lock.json
+
+# 忽略三大框架
+/A2RV/Angular2/*
+/A2RV/React/*
+/A2RV/Vue/*

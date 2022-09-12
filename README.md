@@ -34,7 +34,7 @@
 ## 5、打包
 
     npm run gulp:prd
-
+接着在 dist 文件夹下找到项目 example-project。
 <!-- ![__Note__/e63a05be60314db12d0a10e4486a0793.png](:/../__Note__/e63a05be60314db12d0a10e4486a0793.png) -->
 
   
@@ -57,4 +57,5 @@
   
 
 该项目不存在多层目录生成问题
+
 assets 和 pages 目录下可以嵌套多个子目录
